@@ -42,10 +42,11 @@ I’m a **Computer Engineering student** at the **State University of Maranhão 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="https://instagram.com/bruwlimaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+
   </a>
 </p>
 
 ---
 
-<p align="center">Made with ❤️ by Bruna</p>
+<p align="center"> ❤️</p>
