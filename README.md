@@ -1,6 +1,6 @@
-# 👩‍💻 Hi, Programmers!  
+# 👩‍💻 hi!
 
-## My name is **Bruna**!
+## my name is **Bruna**!
 
 I’m a **Computer Engineering student** at the **State University of Maranhão (UEMA)**. 
 
